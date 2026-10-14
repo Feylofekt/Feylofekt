@@ -5,4 +5,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![python](https://pic.rtbcdn.ru/user/2026-07-14/f2/6e/f26ed041bb13e473f92cc7fe89785368.jpg)
+![python](https://i.pinimg.com/originals/a0/14/07/a01407efcae7af32dbf444905a386db0.webp?nii=t)
